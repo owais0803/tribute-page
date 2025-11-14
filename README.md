@@ -6,5 +6,5 @@ It highlights his life, achievements, and contributions to science and India.
 View the website here:  
 https://owais0803.github.io/tribute-page/
 
-[Tribute Page Screenshot](./screenshot.ong)
+[Tribute Page Screenshot](./screenshot.png)
 
